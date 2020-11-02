@@ -7,3 +7,9 @@ function responsiveNavbar() {
       x.className = "topnav";
     }
   }
+
+
+// Page Animations
+window.addEventListener("beforeunload", function () {
+    document.body.classList.add("animate-out");
+  });
