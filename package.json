@@ -1,0 +1,25 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of front-end projects.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwilliams659/My-Portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "kh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwilliams659/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/mwilliams659/My-Portfolio#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1"
+  }
+}
