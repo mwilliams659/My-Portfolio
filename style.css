@@ -64,6 +64,13 @@ body {
     background-color: #333;
 }
 
+.inline-img {
+  display:inline-block;
+  margin: 0 0.125em;
+  padding: 0;
+  vertical-align: baseline;
+}
+
 h1 {
     color: #f2f2f2;
     font-family: sans-serif;
